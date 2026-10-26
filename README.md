@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm Hugo</h1>
+# Hello, I'm [@beingsilver](https://github.com/beingsilver)
+
+Welcome to my GitHub profile! I'm an IT student from Portugal.
+
+## 🙋 About Me
+
 - 🌱 I’m currently learning **Software Development at ISEP**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hugo-carvalho-cc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo-carvalho-cc" height="30" width="40" /></a>
-</p>
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beingsilver&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beingsilver)
+
+Thank you for visiting my GitHub profile!
