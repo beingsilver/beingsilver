@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm an IT student from Portugal.
 
 ## 🙋 About Me
 
-- 🌱 I’m currently learning **Software Development at ISEP**
+- 🌱 I’m currently studying **Software Development at ISEP**
 
 ## 📊 Stats
 
