@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm an IT student from Portugal.
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beingsilver&show_icons=true&count_private=true)
+[![beingsilver's GitHub stats](https://github-stats-extended.vercel.app/api?username=beingsilver)](https://github.com/stats-organization/github-stats-extended)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beingsilver)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=beingsilver)
 
 Thank you for visiting my GitHub profile!
